@@ -2,7 +2,7 @@
 name: Device maintainer form
 about: Apply to be a maintainer at PEX here
 title: New maintainer
-assignees: [darkbeast69, ralf979, iamimmanuelraj]
+assignees: [heisinbug, ralf979, iamimmanuelraj]
 ---
 
 ## Device you want to apply for
