@@ -28,6 +28,11 @@ https://github.com/user/vendor_brand_codename
 Insert here
 ```
 
+## Do you build locally or rely on server if so what cloud service provider do you use ?
+```
+Insert here
+```
+
 ## Any Exceptions/special concern?
 ```
 No
