@@ -7,7 +7,7 @@ assignees: [heisinbug, ralf979, iamimmanuelraj]
 
 ## Device you want to apply for
 ```
-Your device name
+Redmi 9 / Poco M2 (lava)
 ```
 
 ## Device tree sources
@@ -18,23 +18,23 @@ Your device name
 * Add common trees if applicable
 -->
 ```
-https://github.com/user/device_brand_codename
-https://github.com/user/kernel_brand_codename
-https://github.com/user/vendor_brand_codename
+https://github.com/romanxwalker/android_device_xiaomi_lava.git
+https://github.com/romanxwalker/kernel_xiaomi_mt6768.git
+https://github.com/romanxwalker/android_vendor_xiaomi_lava.git
 ```
 
 ## Number of ROM's you maintain officially
 ```
-Insert here
+Zero
 ```
 
 ## Do you build locally or rely on server if server what cloud service provider do you use ?
 ```
-Insert here
+Serverhub
 ```
 ## Free trial user or paid user?
 ```
-Insert here
+paid
 ```
 
 ## Any Exceptions/special concern?
@@ -46,10 +46,10 @@ No
 
 ### Telegram username
 ```
-Your Telegram username
+romanxwalker
 ```
 
 ### GitHub username
 ```
-Your GitHub username
+romanxwalker 
 ```
