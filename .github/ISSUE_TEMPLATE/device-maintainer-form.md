@@ -7,7 +7,7 @@ assignees: [heisinbug, ralf979, iamimmanuelraj]
 
 ## Device you want to apply for
 ```
-Your device name
+instantnoodle
 ```
 
 ## Device tree sources
@@ -18,38 +18,42 @@ Your device name
 * Add common trees if applicable
 -->
 ```
-https://github.com/user/device_brand_codename
-https://github.com/user/kernel_brand_codename
-https://github.com/user/vendor_brand_codename
+git@github.com/the-deepongi/android_device_oneplus_instantnoodle-pex
+git@github.com/the-deepongi/android_kernel_oneplus_sm8250-pex
+git@github.com/the-deepongi/android_device_oneplus_sm8250-common-pex
+git@github.com/the-deepongi/android_hardware_oneplus
+git@github.com/the-deepongi/proprietary_vendor_oneplus_sm8250-common
+git@github.com/the-deepongi/proprietary_vendor_oneplus_instantnoodle
+git@github.com/the-deepongi/hardware_oplus
 ```
 
 ## Number of ROM's you maintain officially
 ```
-Insert here
+None.
 ```
 
 ## Do you build locally or rely on server if server what cloud service provider do you use ?
 ```
-Insert here
+Locally.
 ```
 ## Free trial user or paid user?
 ```
-Insert here
+Free trial user.
 ```
 
 ## Any Exceptions/special concern?
 ```
-No
+No.
 ```
 
 ## Contact
 
 ### Telegram username
 ```
-Your Telegram username
+@deepongi
 ```
 
 ### GitHub username
 ```
-Your GitHub username
+the-deepongi
 ```
