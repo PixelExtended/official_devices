@@ -7,7 +7,7 @@ assignees: [heisinbug, ralf979, iamimmanuelraj]
 
 ## Device you want to apply for
 ```
-Your device name
+veux
 ```
 
 ## Device tree sources
@@ -18,23 +18,27 @@ Your device name
 * Add common trees if applicable
 -->
 ```
-https://github.com/user/device_brand_codename
-https://github.com/user/kernel_brand_codename
-https://github.com/user/vendor_brand_codename
+https://github.com/deepongi-labs/android_vendor_xiaomi_veux-pex
+https://github.com/deepongi-labs/android_vendor_xiaomi_sm6375-common-pex
+https://github.com/deepongi-labs/android_device_xiaomi_sm6375-common-pex
+https://github.com/deepongi-labs/android_device_xiaomi_veux-pex
+https://github.com/deepongi-labs/android_kernel_xiaomi_sm6375-pex
+https://github.com/deepongi-labs/android_device_xiaomi_veux-kernel-pex
+https://github.com/deepongi-labs/android_hardware_xiaomi-pex
 ```
 
 ## Number of ROM's you maintain officially
 ```
-Insert here
+None
 ```
 
 ## Do you build locally or rely on server if server what cloud service provider do you use ?
 ```
-Insert here
+Locally
 ```
 ## Free trial user or paid user?
 ```
-Insert here
+Free trial user
 ```
 
 ## Any Exceptions/special concern?
@@ -46,10 +50,10 @@ No
 
 ### Telegram username
 ```
-Your Telegram username
+@deepongi
 ```
 
 ### GitHub username
 ```
-Your GitHub username
+deepongi-labs
 ```
