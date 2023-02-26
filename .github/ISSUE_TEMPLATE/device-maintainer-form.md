@@ -37,9 +37,9 @@ Insert here
 Insert here
 ```
 
-## Any Exceptions/special concern?
+## [MUST] Paste your build post link?
 ```
-No
+Insert here
 ```
 
 ## Contact
