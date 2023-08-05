@@ -7,7 +7,7 @@ assignees: [heisinbug, ralf979, iamimmanuelraj]
 
 ## Device you want to apply for
 ```
-Your device name
+Pocophone F5 / Redmi note 12 turbo (Marble)
 ```
 
 ## Device tree sources
@@ -18,38 +18,38 @@ Your device name
 * Add common trees if applicable
 -->
 ```
-https://github.com/user/device_brand_codename
-https://github.com/user/kernel_brand_codename
-https://github.com/user/vendor_brand_codename
+https://github.com/JYRRC/android_device_xiaomi_marble
+https://github.com/JYRRC/android_kernel_xiaomi_marble
+https://gitlab.com/JYRRC/vendor_xiaomi_marble
 ```
 
 ## Number of ROM's you maintain officially
 ```
-Insert here
+One
 ```
 
 ## Do you build locally or rely on server if server what cloud service provider do you use ?
 ```
-Insert here
+Locally Linux Ubuntu
 ```
 ## Free trial user or paid user?
 ```
-Insert here
+Free
 ```
 
 ## [MUST] Paste your build post link?
 ```
-Insert here
+https://t.me/Crdroid_Marble/2238
 ```
 
 ## Contact
 
 ### Telegram username
 ```
-Your Telegram username
+@JYR_RC
 ```
 
 ### GitHub username
 ```
-Your GitHub username
+https://github.com/JYRRC
 ```
