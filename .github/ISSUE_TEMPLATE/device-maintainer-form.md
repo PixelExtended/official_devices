@@ -7,7 +7,7 @@ assignees: [heisinbug, ralf979, iamimmanuelraj]
 
 ## Device you want to apply for
 ```
-Your device name
+Xiaomi 11 Lite NE 5G (lisa)
 ```
 
 ## Device tree sources
@@ -18,38 +18,41 @@ Your device name
 * Add common trees if applicable
 -->
 ```
-https://github.com/user/device_brand_codename
-https://github.com/user/kernel_brand_codename
-https://github.com/user/vendor_brand_codename
+https://github.com/Amit152505/device_xiaomi_lisa
+https://github.com/Amit152505/kernal_xiaomi_lisa
+https://github.com/Amit152505/vendor_xiaomi_lisa
 ```
 
 ## Number of ROM's you maintain officially
 ```
-Insert here
+Official:- None
+Unofficial:- 1 (DerpFest)
 ```
 
 ## Do you build locally or rely on server if server what cloud service provider do you use ?
 ```
-Insert here
+Cloud Server (Azure)
 ```
 ## Free trial user or paid user?
 ```
-Insert here
+Paid user
 ```
 
 ## [MUST] Paste your build post link?
 ```
-Insert here
+https://t.me/Xiaomi11LiteNE/413943
+or
+https://t.me/derpfest_lisa_unofficial/2918
 ```
 
 ## Contact
 
 ### Telegram username
 ```
-Your Telegram username
+nicolas1525
 ```
 
 ### GitHub username
 ```
-Your GitHub username
+Amit152505
 ```
